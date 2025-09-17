@@ -1,6 +1,5 @@
 Got it 👍 — here’s the full **README.md** formatted so you can copy-paste directly:
 
-````markdown
 # Next.js + GitHub Demo
 
 This demo shows how to create a new Next.js app, connect it to a GitHub repository, and practice common Git commands (init, commit, push, branching).
@@ -13,7 +12,7 @@ Make sure you have **Node.js** and **npm** installed.
 ```bash
 npx create-next-app@latest my-app
 cd my-app
-````
+```
 
 ---
 
