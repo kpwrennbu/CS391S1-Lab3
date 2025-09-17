@@ -26,7 +26,7 @@ cd my-app
    ```
 
    Example: `kwrenn-Demo`
-3. Leave it **blank** (no README, no .gitignore).
+3. Add a README
 
 ---
 
